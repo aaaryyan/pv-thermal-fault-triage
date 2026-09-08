@@ -1,0 +1,8 @@
+# Stage 1 - Panel detector config
+model: yolov8n
+img_size: 640
+batch_size: 16
+epochs: 100
+data_path: data/processed/stage1
+classes:
+  - panel

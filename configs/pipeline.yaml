@@ -1,0 +1,7 @@
+# End-to-end pipeline config
+stage1_config: configs/stage1_detector.yaml
+stage2_config: configs/stage2_classifier.yaml
+priority_thresholds:
+  A_dispatch: 0.8
+  B_refly: 0.4
+  C_monitor: 0.0

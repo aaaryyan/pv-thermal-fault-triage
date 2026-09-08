@@ -1,0 +1,11 @@
+# Stage 2 - Artifact classifier config
+model: resnet18
+img_size: 224
+batch_size: 32
+epochs: 50
+data_path: data/processed/stage2
+classes:
+  - likely_fault
+  - likely_reflection
+  - likely_occlusion
+  - uncertain
