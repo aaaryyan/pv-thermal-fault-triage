@@ -6,12 +6,14 @@ downloaded directly from its source, and its license terms respected.
 ## Zenodo UAV Thermal PV Dataset
 - DOI: 10.5281/zenodo.16420123
 - 353 images, ~26,678 annotated panels
-- License: verify on the Zenodo record page -- Zenodo defaults to CC BY 4.0
-  unless the uploader specifies otherwise. CC BY 4.0 permits reuse,
-  modification, and redistribution with attribution.
-- Action required: confirm the exact license on the record page before
-  publishing derived crops/annotations, and include attribution text here
-  once confirmed.
+- **License: CONFIRMED -- Creative Commons Attribution 4.0 International (CC BY 4.0)**
+- CC BY 4.0 permits reuse, modification, and redistribution (including derived
+  crops/annotations and publishing sample images), provided attribution is given.
+- **Attribution to use:** "Thermal PV panel imagery from [dataset creator name/
+  record title], available at https://doi.org/10.5281/zenodo.16420123, licensed
+  under CC BY 4.0." (Fill in the exact creator name/title from the Zenodo
+  record page and use this text in the README, any published figures, and any
+  derived dataset releases.)
 
 ## PVF-10
 - Wang et al. 2024, Applied Energy 376(PA), DOI: 10.1016/j.apenergy.2024.124210
